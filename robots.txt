@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eigivaesi.michellemeng.com/sitemap.xml
